@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/asus/Pictures/rc/chat/about.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/bold.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/clear.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/color.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/file.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/leek.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/QQ.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/xiahuaxian.png</file>
+        <file>C:/Users/asus/Pictures/rc/previous.png</file>
+        <file>C:/Users/asus/Pictures/rc/chat/send.png</file>
+    </qresource>
+    <qresource prefix="/QSS">
+        <file>ubuntu.qss</file>
+    </qresource>
+</RCC>
